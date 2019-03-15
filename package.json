@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kappyh/AdvancedCSS1.git"
+  },
+  "author": "Gabriela Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kappyh/AdvancedCSS1/issues"
+  },
+  "homepage": "https://github.com/Kappyh/AdvancedCSS1#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
